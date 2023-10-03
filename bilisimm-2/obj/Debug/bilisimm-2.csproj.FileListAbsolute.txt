@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bilisimm-2\bilisimm-2\bin\Debug\bilisimm-2.exe.config
+C:\Users\User\source\repos\bilisimm-2\bilisimm-2\bin\Debug\bilisimm-2.exe
+C:\Users\User\source\repos\bilisimm-2\bilisimm-2\bin\Debug\bilisimm-2.pdb
+C:\Users\User\source\repos\bilisimm-2\bilisimm-2\obj\Debug\bilisimm-2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bilisimm-2\bilisimm-2\obj\Debug\bilisimm-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bilisimm-2\bilisimm-2\obj\Debug\bilisimm_2.Form1.resources
+C:\Users\User\source\repos\bilisimm-2\bilisimm-2\obj\Debug\bilisimm_2.Properties.Resources.resources
+C:\Users\User\source\repos\bilisimm-2\bilisimm-2\obj\Debug\bilisimm-2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bilisimm-2\bilisimm-2\obj\Debug\bilisimm-2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bilisimm-2\bilisimm-2\obj\Debug\bilisimm-2.exe
+C:\Users\User\source\repos\bilisimm-2\bilisimm-2\obj\Debug\bilisimm-2.pdb
